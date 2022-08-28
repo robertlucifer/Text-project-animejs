@@ -1,0 +1,23 @@
+*{
+padding:0;
+margin:0;
+box-sizing: border-box;
+
+}
+
+.first-part{
+background-color: #000;    
+width: 100%;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.sec-part{
+    background-color: #000;    
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
